@@ -5,4 +5,4 @@
 | Alex   | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINL5xrAUJR1gB/BWXJetVluwhi8yObV5az0Ci2/zfThU Alex |
 | Pawel  | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG0wQbc9qrGb1zg+uthNj8xnYEuqiRCPW3ctZmtS1n8i pawel@encrypted-vm-clevo |
 | Michal | ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDmuA/Ct1Yl9b1L02dGNU4DoWhatTmUDsaWMBbrnR9odkAA3000cKu+k8LWv0dB4iDUZ6Z/KG4jnKHwmsdbtBuBLoUXmkHo6pGDF5whez14jNC+YJfF0L2kF/E9ZW597R1A9ASp11d9VwDCC7QJq/6y50uk4cBgmZi6LK9zJ+AAVFsuLKRI8VZSpX0HgrUxQSap8qaD7ieHDaZgWhAzcEcjwoAcpw7HH2J2Bn9nUYvwVgk8n446w6FUPzvAV9NMuS7Z7wPrNXAwJspIdxZ/LidTRlnU0ZkyeuautBOB6xx0q0LAwFMiUlDfJlkK0YiZHtkxlMLFxSrM7Z8vtlQk1Bfd mz@mz-VirtualBox |
-| Maciej Lech | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJHj25YFUd3TizqJFQklAOU89sdzaoIfYdgnJx8xrHYz maciej.lech@reef.pl |
+| Maciej L | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJHj25YFUd3TizqJFQklAOU89sdzaoIfYdgnJx8xrHYz maciej.lech@reef.pl |
