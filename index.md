@@ -8,3 +8,4 @@
 | Maciej L | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJHj25YFUd3TizqJFQklAOU89sdzaoIfYdgnJx8xrHYz maciej.lech@reef.pl |
 | Szumo | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG76gaAObjguVr4LDzoJdH0WSEWIL3Vp1abr0VvuLzqJ maciej.szumocki@reef.pl |
 | Michal N | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxDDbeThkg4HIAxjM1jMESYZK5icMqM3kF+EIOPeQ7E michal.nowacki@reef.pl |
+| Wojciech B | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPiH3iRdGjK5QyDc52LK8ENzBi0CIyY1bJoc4xI/YYNx wojciech.bancer@reef.pl |
