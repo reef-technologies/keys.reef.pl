@@ -11,4 +11,5 @@
 | Wojciech B | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPiH3iRdGjK5QyDc52LK8ENzBi0CIyY1bJoc4xI/YYNx wojciech.bancer@reef.pl |
 | Kamil G | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICgYVjk6qfDQK+ZcOnHjWLIZeHTTw4SDneQxJFSmxre9 kamil.glod@reef.pl |
 | Vykintas | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFdzB5gQd8QHqKWVPWLXdHPq2i1m1tqa8glbVB1xLqRF vykintas.baltrusaitis@reef.pl |
+| Krzysztof K | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFf7mRUdP4nf/Br+IbIn9txqZPEkRz1D3dQ3KeLNGtHs krzysztof.kalinowski@reef.pl |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
