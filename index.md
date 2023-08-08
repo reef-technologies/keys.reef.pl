@@ -10,4 +10,5 @@
 | Vykintas | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFdzB5gQd8QHqKWVPWLXdHPq2i1m1tqa8glbVB1xLqRF vykintas.baltrusaitis@reef.pl |
 | Krzysztof K | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFf7mRUdP4nf/Br+IbIn9txqZPEkRz1D3dQ3KeLNGtHs krzysztof.kalinowski@reef.pl |
 | Maciej Urbanski | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP5kYM7NWO92+5aKc6GRbAIkbcIr5FzreGxqeXLTePfW maciej.rooter.urbanski@reef.pl |
+| Michal Przadka | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJznfpZejJGPAbPtOMQwfBBlJcN7IwWd8NzbUgpLri3D michal.przadka@reef.pl |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
