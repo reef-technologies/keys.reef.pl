@@ -13,4 +13,5 @@
 | Michal Przadka | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJznfpZejJGPAbPtOMQwfBBlJcN7IwWd8NzbUgpLri3D michal.przadka@reef.pl |
 | Jiri Suchan | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICMnMO1YsC+DYZHFT/A87I4RgsY4lzpo/lllb1gwj+xW jiri.suchan@reef.pl |
 | Enam | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILzt452MeOhC0udN2ieUi8ecMRxOX9hjqvmcBoCx4wtc emnoor-reef@Enams-MacBook-Pro.local |
+| Michal Z | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKGhCyKumRGm8Kz9aVutHjkTLrQf/xV/Dhfwq070JHxl michal.zukowski@reef.pl |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
