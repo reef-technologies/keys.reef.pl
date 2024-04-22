@@ -13,4 +13,5 @@
 | Enam | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILzt452MeOhC0udN2ieUi8ecMRxOX9hjqvmcBoCx4wtc emnoor-reef@Enams-MacBook-Pro.local |
 | Michal Z | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKGhCyKumRGm8Kz9aVutHjkTLrQf/xV/Dhfwq070JHxl michal.zukowski@reef.pl |
 | Andreea | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAQuCO65/3Jm2qcHe55t+kXVP9RzVe2GVfAxCBjFx6VL andreea.popescu@reef.pl |
+| Adal | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJw2qlQJn5sQuvtuE0mG8Wme/mbQib7vwnj4D+ShK1BE adal.chiriliuc@reef.pl |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
