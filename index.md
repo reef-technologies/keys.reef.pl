@@ -16,4 +16,6 @@
 | Adal | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJw2qlQJn5sQuvtuE0mG8Wme/mbQib7vwnj4D+ShK1BE adal.chiriliuc@reef.pl |
 | Kordian | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPWoKlJyG1T6x/LcSLB0/yVdB92EoDodyCmIQSSpVPGP kordian@kordian-reef |
 | Olzhas | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO+g1/BJphyvgJe39fsKHeGZvz8iDvYbIt+yKLXddOZs olzhas.arystanov@reef.pl |
+| Grzegorz L | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNCMtjqUuSlNKf12Os9rWghvtASfuPlQctMNKwfZzYD gleszczynski@gleszczynski-VBox |
+| Tomasz Z | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILDapSkmX42V4RqQTVXCgTCCDvKu28gs4JCwroOwUyms tomasz.zyzniewski@reef.pl |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
