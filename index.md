@@ -18,4 +18,5 @@
 | Olzhas | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO+g1/BJphyvgJe39fsKHeGZvz8iDvYbIt+yKLXddOZs olzhas.arystanov@reef.pl |
 | Grzegorz L | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNCMtjqUuSlNKf12Os9rWghvtASfuPlQctMNKwfZzYD gleszczynski@gleszczynski-VBox |
 | Tomasz Z | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILDapSkmX42V4RqQTVXCgTCCDvKu28gs4JCwroOwUyms tomasz.zyzniewski@reef.pl |
+| Slawomir G | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG6ryuzDOhBvDF8Taz6TIO0sAx9zZTxX+AvJVgRKkUy6 sgorawski-reef@MacBook-Air-Sawomir.local |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
