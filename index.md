@@ -20,4 +20,5 @@
 | Michał Parkoła | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN7xiYsjWET94g7QQR0cBV0XiY68fuGuCv0uCt/6eJXy michal.parkola |
 | Konrad Moliński | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP8r4vSAYbrWOU3QPuNSwugnTKME5M/fgne54aFpa5B5 Kooenn@proton.me |
 | Piotr Figwer | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILLQpP3NHMfnn719mV0sKuYOiEW0StZEGe36T3HUR3xt piotr@Ubuntu |
+| Michał Rzeszut | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJX6P09QTdn90omcDy5ICPguRZFDQN5kxmqkIXrl8HmV mrzeszut@debian-reef.bluefin |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
