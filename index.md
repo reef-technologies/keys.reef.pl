@@ -21,4 +21,5 @@
 | Konrad Moliński | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP8r4vSAYbrWOU3QPuNSwugnTKME5M/fgne54aFpa5B5 Kooenn@proton.me |
 | Piotr Figwer | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILLQpP3NHMfnn719mV0sKuYOiEW0StZEGe36T3HUR3xt piotr@Ubuntu |
 | Michał Rzeszut | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJX6P09QTdn90omcDy5ICPguRZFDQN5kxmqkIXrl8HmV mrzeszut@debian-reef.bluefin |
+| Jakub Żytka | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4Ch5t/qvEPjpXZDYO2xRnQ5PraszMue8AZUSBIRYHO jakub@reef |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
