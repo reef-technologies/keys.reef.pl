@@ -22,4 +22,5 @@
 | Piotr Figwer | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILLQpP3NHMfnn719mV0sKuYOiEW0StZEGe36T3HUR3xt piotr@Ubuntu |
 | Michał Rzeszut | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJX6P09QTdn90omcDy5ICPguRZFDQN5kxmqkIXrl8HmV mrzeszut@debian-reef.bluefin |
 | Jakub Żytka | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4Ch5t/qvEPjpXZDYO2xRnQ5PraszMue8AZUSBIRYHO jakub@reef |
+| Kacper Wolkiewicz | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP3hxDGap0h/zm8/PMVpYZKODlXxP7tGXxIU8v+Tq0/X wolkiewicz@pop-os |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
