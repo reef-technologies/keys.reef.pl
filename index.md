@@ -7,7 +7,7 @@
 | Maciej L | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJHj25YFUd3TizqJFQklAOU89sdzaoIfYdgnJx8xrHYz maciej.lech |
 | Michal N | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJxDDbeThkg4HIAxjM1jMESYZK5icMqM3kF+EIOPeQ7E michal.nowacki |
 | Wojciech B | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPiH3iRdGjK5QyDc52LK8ENzBi0CIyY1bJoc4xI/YYNx wojciech.bancer |
-| Michal Przadka | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJznfpZejJGPAbPtOMQwfBBlJcN7IwWd8NzbUgpLri3D michal.przadka |
+| Michal Przadka | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJdPYDWo9QgO3TXPq9HjYgDdN1/avjbcjRFdB2sE1NZE przadka@gmail.com |
 | Enam | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILzt452MeOhC0udN2ieUi8ecMRxOX9hjqvmcBoCx4wtc emnoor-reef@Enams-MacBook-Pro.local |
 | Michal Z | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKGhCyKumRGm8Kz9aVutHjkTLrQf/xV/Dhfwq070JHxl michal.zukowski |
 | Adal | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJw2qlQJn5sQuvtuE0mG8Wme/mbQib7vwnj4D+ShK1BE adal.chiriliuc |
