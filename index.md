@@ -14,7 +14,6 @@
 | Kordian | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPWoKlJyG1T6x/LcSLB0/yVdB92EoDodyCmIQSSpVPGP kordian@kordian-reef |
 | Olzhas | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO+g1/BJphyvgJe39fsKHeGZvz8iDvYbIt+yKLXddOZs olzhas.arystanov |
 | Grzegorz L | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNCMtjqUuSlNKf12Os9rWghvtASfuPlQctMNKwfZzYD gleszczynski@gleszczynski-VBox |
-| Tomasz Z | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILDapSkmX42V4RqQTVXCgTCCDvKu28gs4JCwroOwUyms tomasz.zyzniewski |
 | Slawomir G | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG6ryuzDOhBvDF8Taz6TIO0sAx9zZTxX+AvJVgRKkUy6 sgorawski-reef@MacBook-Air-Sawomir.local |
 | Piotr Figwer | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILLQpP3NHMfnn719mV0sKuYOiEW0StZEGe36T3HUR3xt piotr@Ubuntu |
 | Jakub Żytka | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ4Ch5t/qvEPjpXZDYO2xRnQ5PraszMue8AZUSBIRYHO jakub@reef |
