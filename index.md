@@ -21,4 +21,5 @@
 | Kacper Wolkiewicz | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP3hxDGap0h/zm8/PMVpYZKODlXxP7tGXxIU8v+Tq0/X wolkiewicz@pop-os |
 | Mateusz Srebrny | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID9T6KnQcWWZzuXw0/QknX2lH+qS3NTiJqh8+KHIsJza mateusz.srebrny@reef.pl |
 | Aleksandr Sobolev | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF8eSmayuLE64oiJ/bkvYLx/ytWDwnP6hsTaXrd7Dkkg aleksandr.sobolev@reef.pl |
+| Jan Sauer | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHr/3YjdtIVR7qPFj3X4hEsFYnygpBM3z6UAirLYi1wo jan.sauer@reef.pl |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
