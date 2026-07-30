@@ -12,7 +12,6 @@
 | Michal Z | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKGhCyKumRGm8Kz9aVutHjkTLrQf/xV/Dhfwq070JHxl michal.zukowski |
 | Adal | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJw2qlQJn5sQuvtuE0mG8Wme/mbQib7vwnj4D+ShK1BE adal.chiriliuc |
 | Kordian | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPWoKlJyG1T6x/LcSLB0/yVdB92EoDodyCmIQSSpVPGP kordian@kordian-reef |
-| Olzhas | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO+g1/BJphyvgJe39fsKHeGZvz8iDvYbIt+yKLXddOZs olzhas.arystanov |
 | Grzegorz L | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHNCMtjqUuSlNKf12Os9rWghvtASfuPlQctMNKwfZzYD gleszczynski@gleszczynski-VBox |
 | Slawomir G | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG6ryuzDOhBvDF8Taz6TIO0sAx9zZTxX+AvJVgRKkUy6 sgorawski-reef@MacBook-Air-Sawomir.local |
 | Piotr Figwer | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILLQpP3NHMfnn719mV0sKuYOiEW0StZEGe36T3HUR3xt piotr@Ubuntu |
@@ -21,5 +20,5 @@
 | Mateusz Srebrny | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID9T6KnQcWWZzuXw0/QknX2lH+qS3NTiJqh8+KHIsJza mateusz.srebrny@reef.pl |
 | Aleksandr Sobolev | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF8eSmayuLE64oiJ/bkvYLx/ytWDwnP6hsTaXrd7Dkkg aleksandr.sobolev@reef.pl |
 | Jan Sauer | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHr/3YjdtIVR7qPFj3X4hEsFYnygpBM3z6UAirLYi1wo jan.sauer@reef.pl |
-| Tomasz Śmigielski | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBmxdt3zHcRuDApwJj2wU7zcgksXABxmDZKlkUCWzcPk tomek@mintek |
+| Vadim Bereznitskiy | ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOGg9R5pjGepSzfXt7NyAWtqdBJo8l0AAoTB8Xj8ZtOd vadim |
 | | [Visit repository to add new key](https://github.com/reef-technologies/keys.reef.pl) |
